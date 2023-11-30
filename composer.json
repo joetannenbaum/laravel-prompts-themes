@@ -1,0 +1,14 @@
+{
+    "require": {
+        "laravel/prompts": "^0.1.13"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require-dev": {
+        "tightenco/duster": "^2.5",
+        "spatie/ray": "^1.40"
+    }
+}
